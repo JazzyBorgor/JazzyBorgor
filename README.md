@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JazzyBorgor
 - 👀 I’m interested in programming and ne day becoming a software developer/ game developer
-- 🌱 I’m currently a first year student learning the lnguage C
+- 🌱 I’m currently a first year student learning the language C
 
 
 <!---
